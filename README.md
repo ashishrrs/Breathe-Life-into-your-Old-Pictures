@@ -107,4 +107,4 @@ https://share.streamlit.io/hello-fri-end/breathe-life-into-your-old-pictures/str
 <!-- CONTACT -->
 ## Contact
 
-Anwaar Khalid- [LinkedIn](https://www.linkedin.com/in/anwaar-khalid/) 
+Ashish Choudhary- [LinkedIn](https://www.linkedin.com/in/ashish-choudhary-1747791a0/) 
